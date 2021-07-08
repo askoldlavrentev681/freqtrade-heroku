@@ -12,15 +12,7 @@ heroku dyno:scale web=1
 Set environment variables
 ```
 # example: heroku config:set KEY=value
-TELEGRAM_TOKEN_LIVE=1703138693:AAG_4xwFr9uDSD4PVsg4Yj38_-DhG7kD7Ts
-TELEGRAM_CHAT_ID_LIVE=1093107451
-EXCHANGE_NAME=binance
-EXCHANGE_KEY=your key
-EXCHANGE_SECRET=your secret
-LIVE_STRATEGY=SMAOffsetV2
-# UI credentials
-USERNAME=askoldlavrentev681@mail.ru
-PASSWORD=Yhxru5pm424r
+
 ```
 
 Deploying
